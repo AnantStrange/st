@@ -7,7 +7,9 @@
  */
 static char *font = "mono:pixelsize=14:antialias=true:autohint=true";
 //static char *font = "Acme:style=Regular:pixelsize=14:antialias=true:autohint=true";
-static char *font2[] = { "JoyPixels:pixelsize=12:antialias=true:autohint=true" };
+static char *font2[] = { "JoyPixels:pixelsize=12:antialias=true:autohint=true",
+    "DejaVu Sans Mono:pixelsize=12:antialias=true:autohinttrue"
+};
 static int borderpx = 2;
 
 /*
